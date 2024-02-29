@@ -1,0 +1,35 @@
+.header {
+  margin: 0px;
+}
+
+.mainBody {
+  min-height: 80vh;
+  height: 100%;
+  background-color: rgb(252, 255, 154);
+  padding-top: 5vmin;
+}
+
+.footer {
+  height: 12vh;
+  background-color: rgb(226, 0, 94);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footerText {
+  height: 8vh;
+  width: 70vh;
+  background-color: rgb(251, 43, 43);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3vmin;
+  font-weight: 500;
+
+}
+
+.mynavbar {
+  background-color: rgb(216, 15, 15);
+}
